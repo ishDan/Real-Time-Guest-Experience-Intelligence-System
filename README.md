@@ -1,5 +1,7 @@
 # Real-Time Guest Experience Intelligence System
 
+<img width="1183" height="667" alt="overall" src="https://github.com/user-attachments/assets/4ad7c389-8e70-4cd6-94aa-d5b28af151d6" />
+
 ## 📌 Problem Statement
 Hotels often collect guest feedback after checkout, which limits their ability to resolve issues during a guest’s stay. This leads to missed opportunities to improve customer satisfaction in real time.
 
@@ -37,9 +39,6 @@ The goal is to help hotel management identify and resolve critical issues proact
 <img width="1183" height="663" alt="individual" src="https://github.com/user-attachments/assets/c0f472d5-34a2-4ab3-84ea-368ac461432d" />
 
 <img width="1187" height="665" alt="multiple" src="https://github.com/user-attachments/assets/0e8f6459-c607-4b39-b05e-f471afc92076" />
-
-<img width="1183" height="667" alt="overall" src="https://github.com/user-attachments/assets/4ad7c389-8e70-4cd6-94aa-d5b28af151d6" />
-
 
 - Cleanliness issues have the highest severity, indicating a need for stricter housekeeping quality control
 - Negative reviews are primarily driven by maintenance and cleanliness problems
